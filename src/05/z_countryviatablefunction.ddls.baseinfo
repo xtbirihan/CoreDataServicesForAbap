@@ -1,0 +1,17 @@
+{
+"BASEINFO":
+{
+"FROM":
+[],
+"ASSOCIATED":
+[
+"I_COUNTRYTEXT",
+"I_CURRENCY"
+],
+"BASE":
+[],
+"ANNO_REF":
+[],
+"VERSION":0
+}
+}
